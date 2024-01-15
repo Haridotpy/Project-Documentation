@@ -80,7 +80,7 @@ with st.container():
             <p>Generation of new floor plan images using GAN and Autoencoder .</p>
             <p><strong>Mentor:</strong> Prof. Dr. Deivamani M</p>
             <p><strong>Industry Expert:</strong> Mr. Muthumani M</p>
-            <p>Visit our Github Page by clicking <a href="https://github.com/Haridotpy/Gan_6" target="_blank">here</a></p>
+            <p>Visit our Github Page by clicking <a href="https://github.com/Haridotpy/Project-Documentation" target="_blank">here</a></p>
             <p>For Project Report Click <a href="https://drive.google.com/drive/u/0/folders/16C535f8dN7vIkaGtdpprTSQMs_nQeoQI" target="_blank">here</a><p>
         </div>
         """,
