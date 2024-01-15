@@ -7,7 +7,7 @@ project website link
 
 project report pdf [click here to view Project Report](https://drive.google.com/drive/u/0/folders/16C535f8dN7vIkaGtdpprTSQMs_nQeoQI)
 
-project source code [click here to view Project source code ](https://github.com/Haridotpy/Gan_6/blob/master/app.py)
+project source code [click here to view Project source code ](https://github.com/Haridotpy/Project-Documentation/blob/main/app.py)
 
 project presentation video link   [![Watch the video]](https://www.youtube.com/watch?v=Nnrwh7807r4)
 
